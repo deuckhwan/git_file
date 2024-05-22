@@ -52,7 +52,7 @@ while True:
     # elif num >= 41: 10칸씩 이동식 40번 이상 일때 빼줌
     #     num -= 1
 
-    #     continue
-
+    #     continue 
+    # 추가된 부분임
 
 
